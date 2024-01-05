@@ -29,9 +29,9 @@ Cette disposition clavier est compatible avec les claviers 65% ANSI transformés
 
 ## Téléchargement
 
-Derniere version : [Téléchargez le ZIP](releases/tag/v1.3), décompressez le, et lancez le `setup.exe`.
+Derniere version : [Téléchargez le ZIP](https://github.com/psa-jforestier/KbdAZER/releases/tag/v1.3), décompressez le, et lancez le `setup.exe`.
 
 ## Historique
 
-- v1.3 : Compatible avec les claviers ANSI 65%
+- [v1.3](https://github.com/psa-jforestier/KbdAZER/releases/tag/v1.3) : Compatible avec les claviers ANSI 65%
 - version précédent : non disponible
