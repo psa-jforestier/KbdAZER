@@ -24,9 +24,14 @@ L'intégralité des fonctions est visible sur le site [kbdlayout.info](https://k
 ![KBD Azerty layout](kbdazer_v3.png)
 
 Cette disposition clavier est compatible avec les claviers 65% ANSI transformés en AZERTY. Vous pouvez alors utiliser les compositions suivantes :
-- < avec AltGr + W (pour palier à l'abscence de touche <> sur le clavier ANSI).
-- > avec AltGr + Shift + W 
+- `<` avec AltGr + W (pour palier à l'abscence de touche <> sur le clavier ANSI).
+- `>` avec AltGr + Shift + W 
 
 ## Téléchargement
 
+Derniere version : [Téléchargez le ZIP](releases/tag/v1.3), décompressez le, et lancez le `setup.exe`.
+
 ## Historique
+
+- v1.3 : Compatible avec les claviers ANSI 65%
+- version précédent : non disponible
