@@ -21,6 +21,8 @@ et en bonus :
 
 L'intégralité des fonctions est visible sur le site [kbdlayout.info](https://kbdlayout.info/a8517097-301d-46af-a54c-9e07427de104).
 
+** Attention ** N'utilisez pas les smileys ou les fleches dans un mot de passe, ces caractères UNICODE ne seront probablement pas acceptés.
+
 ![KBD Azerty layout](kbdazer_v3.png)
 
 Cette disposition clavier est compatible avec les claviers 65% ANSI transformés en AZERTY. Vous pouvez alors utiliser les compositions suivantes :
