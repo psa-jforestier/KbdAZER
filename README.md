@@ -11,6 +11,7 @@ Réalisé avec l'outil [Microsoft Keyboard Layout Creator 1.4 (MSKLC)](https://w
 ![KBD Azerty layout](keyboard-layout.png)
 
 Exemple avec la touche "0à@" :
+
 ![KBD Azerty layout sample ](sample.png)
 
 - É : AltGr + Shift + é
@@ -36,7 +37,9 @@ Cette disposition clavier est compatible avec les claviers 65% ANSI transformés
 
 ## Téléchargement
 
-Derniere version : [Téléchargez le ZIP](https://github.com/psa-jforestier/KbdAZER/releases/tag/v1.3), décompressez le, et lancez le `setup.exe`.
+Pour Windows : Derniere version : [Téléchargez le ZIP](https://github.com/psa-jforestier/KbdAZER/releases/tag/v1.3), décompressez le, et lancez le `setup.exe`.
+
+Pour [http://www.keyboard-layout-editor.com](keyboard-layout.json)
 
 ## Historique
 
