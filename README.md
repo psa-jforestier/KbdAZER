@@ -8,7 +8,13 @@ Réalisé avec l'outil [Microsoft Keyboard Layout Creator 1.4 (MSKLC)](https://w
 
 ## Fonctionnalités
 
-![KBD Azerty layout](keyboard-layout.png)
+Sur clavier ISO :
+
+![KBD Azerty layout - iso](keyboard-layout.png)
+
+Sur clavier ANSI :
+
+![KBD Azerty layout - ansi](keyboard-layout-ansi.png)
 
 Exemple avec la touche "0à@" :
 
