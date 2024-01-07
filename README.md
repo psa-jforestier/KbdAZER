@@ -43,7 +43,7 @@ Cette disposition clavier est compatible avec les claviers 65% ANSI transformés
 
 ## Téléchargement
 
-Pour Windows : Derniere version : [Téléchargez le ZIP](https://github.com/psa-jforestier/KbdAZER/releases/tag/v1.3), décompressez le, et lancez le `setup.exe`.
+Pour Windows : Derniere version [Téléchargez le ZIP](https://github.com/psa-jforestier/KbdAZER/releases/tag/v1.4), décompressez le, et lancez le `setup.exe`.
 
 Pour [http://www.keyboard-layout-editor.com](keyboard-layout.json)
 
